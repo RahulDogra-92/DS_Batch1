@@ -12,7 +12,7 @@ Data Science and Analytics :
 -Time Series Analysis
 
 Projects :-
--Titanic Dataset
--Covid Dataset
--GoogleAppsAnalysis
--Youtube Datasaet
+Titanic Dataset
+/Covid Dataset
+/GoogleAppsAnalysis
+/Youtube Datasaet
